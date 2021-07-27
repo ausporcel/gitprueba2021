@@ -18,3 +18,9 @@ h1 {
 h3 { 
     color: rgb(171, 231, 211);
 }
+
+.divImagenes { 
+    width: 100px;
+    background-color: blanchedalmond;
+
+} 
